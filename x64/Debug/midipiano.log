@@ -1,0 +1,3 @@
+﻿  midi.cpp
+D:\code\c++\midi\midipiano\midipiano\midi.cpp(141,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  midipiano.vcxproj -> D:\code\c++\midi\midipiano\x64\Debug\midipiano.exe
